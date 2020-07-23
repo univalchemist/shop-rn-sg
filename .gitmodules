@@ -1,0 +1,6 @@
+[submodule "src/components/shops"]
+	path = src/components/shops
+	url = https://github.com/cxagroup/distribution-rn-shop
+[submodule "src/components/heal"]
+	path = src/components/heal
+	url = https://github.com/cxagroup/distribution-rn-heal

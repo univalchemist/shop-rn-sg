@@ -1,0 +1,9 @@
+export const FETCH_WALLET = '@wallet/FETCH_WALLET';
+export const FETCH_WALLET_START = '@wallet/FETCH_WALLET_START';
+export const FETCH_WALLET_SUCCESS = '@wallet/FETCH_WALLET_SUCCESS';
+export const FETCH_WALLET_FAILURE = '@wallet/FETCH_WALLET_FAILURE';
+
+export const FETCH_EWALLET = '@wallet/FETCH_EWALLET';
+export const FETCH_EWALLET_START = '@wallet/FETCH_EWALLET_START';
+export const FETCH_EWALLET_SUCCESS = '@wallet/FETCH_EWALLET_SUCCESS';
+export const FETCH_EWALLET_FAILURE = '@wallet/FETCH_EWALLET_FAILURE';
